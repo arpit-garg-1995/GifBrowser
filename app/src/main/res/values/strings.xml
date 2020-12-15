@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GifBrowser</string>
+    <string name="image_desc">Image Description</string>
+    <string name="downloads">Downloads</string>
+    <string name="download">Download</string>
+    <string name="creator_info">Creator Info</string>
+    <string name="download_success">Gif saved successfully!</string>
+    <string name="download_failed">Gif could not be saved</string>
+    <string name="not_ready">Gif is not rendered yet, try again after sometime</string>
+    <string name="already_exist">Gif already exist in downloads</string>
+    <string name="loading">Loading....</string>
+
+    <!--    Errors-->
+    <string name="error">Error</string>
+    <string name="no_internet">You are not connected to Internet, Check Your Internet Connection</string>
+    <string name="try_again">Something went wrong, try again later</string>
+    <string name="not_found">Not Found!</string>
+</resources>
